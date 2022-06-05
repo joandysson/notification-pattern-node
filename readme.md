@@ -2,6 +2,8 @@
 
 ### Pattern to notification errors
 
+node version: `16.15.0`
+
 - Run app
 ```bash
 ./init.sh
