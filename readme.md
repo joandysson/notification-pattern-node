@@ -4,12 +4,14 @@
 
 - Run app
 ```bash
-npm install
+./init.sh
 ```
 
 - Run tests
 ```bash
-npm test
+make npm-test
 ```
+
+see commands in ``makefile``
 
 > by Joandysson Gama made with ❤️
